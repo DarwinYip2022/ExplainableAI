@@ -2,7 +2,7 @@
 
 ## Cases
 - **Case 1**: [Autoencoders]
-- **Case 2**: [Classifier]
+- **Case 2**: [Classifier](cases/Classifier)
 - **Case 3**: [Satellite Images]
 
 ## Sources
