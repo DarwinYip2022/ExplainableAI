@@ -9,7 +9,7 @@
 - **Interpretable Machine Learning**: https://christophm.github.io/interpretable-ml-book/
 - **LRP**: https://github.com/sebastian-lapuschkin/lrp_toolbox
 - **EBM**: https://github.com/interpretml/interpret
-- **counterfactual**: https://github.com/interpretml/DiCE
+- **Counterfactual**: https://github.com/interpretml/DiCE
 - **LIME**: https://github.com/marcotcr/lime
 - **SHAP**: https://github.com/shap/shap
 
