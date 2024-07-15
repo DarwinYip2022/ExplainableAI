@@ -1,9 +1,9 @@
 # Explainable AI
 
 ## Cases
-- **Case 1**: [Autoencoders](cases/Autoencoders)
-- **Case 2**: [Classifier](cases/Classifier)
-- **Case 3**: [Satellite Images](cases/Satellite_Images)
+- **Case 1**: [Autoencoders]
+- **Case 2**: [Classifier]
+- **Case 3**: [Satellite Images]
 
 ## Sources
 - **Interpretable Machine Learning**: https://christophm.github.io/interpretable-ml-book/
